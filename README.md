@@ -37,7 +37,7 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> 
  
 </div>
-
+<br/>
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <!-- <p align="left"> -->
 <!--   
@@ -55,6 +55,6 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Rohit-0310&theme=material-palenight"></p>
 
 <div style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit-0310&show_icons=true&theme=tokyonight" />        
+<img src="https://github-readme-stats.vercel.app/api?username=Rohit-0310&show_icons=true&theme=tokyonight" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-0310&layout=compact&theme=blueberry" />
 </div>
