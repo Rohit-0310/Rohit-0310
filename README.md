@@ -25,6 +25,19 @@
 alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
   
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<div>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> 
+   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> 
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> 
+ 
+</div>
+
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <!-- <p align="left"> -->
 <!--   
@@ -34,7 +47,7 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>  -->
 
 
-<p align="center">
+<p align="left">
 <img alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&theme=react&hide_border=true&bg_color=0D1117" />
   </p>
 
