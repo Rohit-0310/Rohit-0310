@@ -31,8 +31,12 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="java" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="40" height="40"/> </a>
  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="Intelli J" width="40" height="40"/> </a> -->
  
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>  -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>
+
+<p align="center">
+<img alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&theme=react&hide_border=true&bg_color=0D1117" />
+  </p>
 
 ## 😴 The Boring Stuff
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Rohit-0310&theme=material-palenight"></p>
