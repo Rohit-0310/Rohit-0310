@@ -32,7 +32,7 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="Intelli J" width="40" height="40"/> </a> -->
  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>
 
 ## 😴 The Boring Stuff
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Rohit-0310&theme=material-palenight"></p>
