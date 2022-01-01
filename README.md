@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋 Friends I'm Rohit Kumar</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RANZN&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-0310" /> </p>
+## ❤ Views and Followers
+
+<a href="https://github.com/Rohit-0310/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Rohit-0310">
+</a>
+<a href="https://github.com/Rohit-0310?tab=followers"><img src="https://img.shields.io/github/followers/Rohit-0310?label=Followers&style=social" alt="GitHub Badge"></a>
+  
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-0310&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-0310" /> </p> -->
 
 <!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310" /> </p> -->
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Rohit-0310&data=followers,repositories,stars,commits"></p>
@@ -46,7 +54,27 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 <!-- <p align="left">
 <img alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&theme=react&hide_border=true&bg_color=0D1117" />
   </p> -->
-  <p align="center">
+  
+  
+  ## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Rohit-0310/github-readme-stats"><img style="width:57%" alt="Rohit Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit-0310&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Rohit-0310/github-readme-stats"><img style="width:42%" alt="Rohit Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-0310&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Rohit-0310/github-readme-activity-graph"><img alt="Rohit Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit-0310&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+
+  
+  
+  
+<!--   <p align="center">
     <a href="https://github.com/Rohit-0310/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -60,3 +88,4 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=Rohit-0310&show_icons=true&theme=tokyonight" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-0310&layout=compact&theme=blueberry" />
 </div>
+ -->
