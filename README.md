@@ -53,9 +53,9 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 <br/>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>  -->
-<!-- <p align="left">
+<div align="center">
 <img alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&theme=react&hide_border=true&bg_color=0D1117" />
-  </p> -->
+  </div>
   
   
   ## 📊 My Github Stats
