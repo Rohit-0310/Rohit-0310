@@ -52,11 +52,7 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 </p>
 <br/>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>  -->
-<div align="center">
-<img alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&theme=react&hide_border=true&bg_color=0D1117" />
-  </div>
-  
+
   
   ## 📊 My Github Stats
 
@@ -68,6 +64,14 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 <br/>
 <br/>
 
+
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>  -->
+<div align="center">
+<img style="width:80%" alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&theme=react&hide_border=true&bg_color=0D1117" />
+  </div>
+  
+  
+  
 <a href="https://github.com/Rohit-0310/github-readme-activity-graph"><img alt="Rohit Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit-0310&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
