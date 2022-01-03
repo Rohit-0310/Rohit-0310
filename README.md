@@ -67,7 +67,7 @@ alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>  -->
 <div align="center">
-<img style="width:80%" alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&theme=react&hide_border=true&bg_color=0D1117" />
+<img style="width:80%" alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </div>
   
   
