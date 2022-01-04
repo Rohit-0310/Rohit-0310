@@ -11,12 +11,14 @@
 <a href="https://github.com/Rohit-0310?tab=followers"><img src="https://img.shields.io/github/followers/Rohit-0310?label=Followers&style=social" alt="GitHub Badge"></a>
   
 
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-0310&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-0310" /> </p> -->
 
 <!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310" /> </p> -->
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Rohit-0310&data=followers,repositories,stars,commits"></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310" alt="Rohit-0310" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310" alt="Rohit-0310" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310&theme=darkhub" alt="Rohit-0310" /></a> </p>
 
 
 - 🔭 I’m currently working on [something secret](https://github.com/Rohit-0310)
