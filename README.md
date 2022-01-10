@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/rohitkumar-03/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
 alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
 <!--     Portfolio -->
-    <a href="https://rohit-rohit-0310.vercel.app/" target="blank"><img align="center" src="https://rohit-rohit-0310.vercel.app/" height="30" width="40" /></a>
+    <a href="https://rohit-rohit-0310.vercel.app/" target="blank"><img align="center" src="ICON/LogoIcon-modified_1.png" height="30" width="40" /></a>
   
 </p>
 ## 🚀 Languages and Tools:
