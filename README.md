@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Rohit Kumar</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+it's+Rohit;Full+stack+web+developer...)](https://git.io/typing-svg)
 ## ❤ Views and Followers
 
 <a href="https://github.com/Rohit-0310/github-profile-views-counter">
