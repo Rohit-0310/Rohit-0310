@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+👋+I'm+Roht+Kumar&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=MERN+Stack+Developer;Full+stack+web+developer...)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=MERN+Stack+Developer;Full+stack+web+developer...." />
+     </p>
+<!--      (https://git.io/typing-svg) -->
 
 ## ❤ Views and Followers
 
