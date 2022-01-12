@@ -1,9 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+👋+I'm+Roht+Kumar&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=MERN+Stack+Developer;Full+stack+web+developer...)](https://git.io/typing-svg)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Rohit Kumar</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+it's+Rohit;Full+stack+web+developer...)](https://git.io/typing-svg)
 ## ❤ Views and Followers
 
 <a href="https://github.com/Rohit-0310/github-profile-views-counter">
