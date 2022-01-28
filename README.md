@@ -21,7 +21,7 @@
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Rohit-0310&data=followers,repositories,stars,commits"></p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310" alt="Rohit-0310" /></a> </p> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310&theme=darkhub" alt="Rohit-0310" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310&theme=darkhub" alt="Rohit-0310" /></a> </p> -->
 
 
 - 🔭 I’m currently working on [something secret](https://github.com/Rohit-0310)
