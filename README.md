@@ -38,7 +38,7 @@ I am Rohit Kumar, I have completed my graduation in Electronics and Electrical E
 
 - 🌱 I’m currently learning **MEAN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohit-0310](https://github.com/Rohit-0310)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Rohit-0310)**
 
 - 💬 Ask me about **Everything that is legal**
 
