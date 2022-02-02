@@ -6,6 +6,7 @@
      </p> -->
 <!--      (https://git.io/typing-svg) -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Friends I'm Rohit Kumar</h1>
+<h3 align="center"> A Versatile Full Stack Web Developer from India</h3>
 
 
 ## ❤ Views and Followers
