@@ -5,6 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=MERN+Stack+Developer..........;Full+stack+web+developer.........." />
      </p> -->
 <!--      (https://git.io/typing-svg) -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Friends I'm Rohit Kumar</h1>
+
 
 ## ❤ Views and Followers
 
