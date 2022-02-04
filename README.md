@@ -6,7 +6,15 @@
      </p> -->
 <!--      (https://git.io/typing-svg) -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Friends I'm Rohit Kumar</h1>
-<h3 align="center"> A Versatile Full Stack Web Developer from India</h3>
+
+<h3 align="center"> 
+  <code>
+  A Versatile Full Stack Web Developer from India
+  </code>
+    </h3>
+
+
+
 
 
 I am Rohit Kumar, I have completed my graduation in Electronics and Electrical Engineering from [KIIT University](https://kiit.ac.in/). I am a  aspriring full stack web developer. During my journey of learning Web development in Masai, I have built many projects which have given me hands-on experience on various web development tools like HTML, CSS, Javascript, NodeJS, React, Redux, MongoDB, ExpressJS. As a developer,  I am always open to collaborating on projects with innovative ideas and great problem solving manner.
