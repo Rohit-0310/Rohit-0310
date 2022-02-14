@@ -23,7 +23,7 @@ I am Rohit Kumar, I have completed my graduation in Electronics and Electrical E
 ## ❤ Views and Followers
 
 <a href="https://github.com/Rohit-0310/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Rohit-0310">
+    <img src="https://komarev.com/ghpvc/?username=Rohit-0310&color=blueviolet">
   <img src="https://badges.pufler.dev/Commits/yearly/Rohit-0310" /> 
   <a href="https://github.com/Rohit-0310?tab=followers"><img src="https://img.shields.io/github/followers/Rohit-0310?label=Followers&style=social" alt="GitHub Badge"></a>
 </a>
