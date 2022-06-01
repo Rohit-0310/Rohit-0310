@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=MERN+Stack+Developer..........;Full+stack+web+developer.........." />
      </p> -->
 <!--      (https://git.io/typing-svg) -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Friends I'm Rohit Kumar</h1>
+<h1 align="center">Hi <img width="30px" height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" > Friends I'm Rohit Kumar</h1>
 
 <h3 align="center"> 
   <code>
@@ -54,7 +54,7 @@ I am Rohit Kumar, I have completed my graduation in Electronics and Electrical E
 - 🎯 Portfolio website: **[Portfolio](https://rohit-rohit-0310.vercel.app/)**
 
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Connect with me <img  width="30px" height="30px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" >
 <p align="left">  
   <a href="https://www.linkedin.com/in/rohitkumar-03/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
 alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
