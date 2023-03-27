@@ -8,9 +8,7 @@
 <h1 align="center">Hi <img width="30px" height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" > Friends I'm Rohit Kumar</h1>
 
 <h3 align="center"> 
-  <code>
-  A Versatile Full Stack Web Developer from India
-  </code>
+  <code>A Versatile Full Stack Web Developer from India</code>
     </h3>
 
 
