@@ -1,141 +1,193 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=378ADD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rohit+Kumar+%F0%9F%91%8B;.NET+Full-Stack+Developer;ASP.NET+Core+%7C+Blazor+%7C+REST+APIs;MERN+Stack+Developer" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 
-<h3 align="center">.NET Full-Stack Developer | ASP.NET Core, Blazor, REST APIs | MERN Experience (MongoDB, Express, React, Node)</h3>
+<h3 align="center">.NET Full-Stack Developer • MERN Engineer • SonarQube Administrator</h3>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=2%2B+Years+of+Full-Stack+Development;ASP.NET+Core+%7C+Blazor+%7C+React+%7C+Next.js;Enterprise+Applications+%7C+Healthcare+Platforms;SonarQube+Administration+%7C+DevOps+Automation" />
+</p>
 
-## 🧑‍💻 About Me
 
-.NET Full-Stack Developer with **2+ years** of experience in designing, developing, testing, and maintaining web applications, with a strong focus on backend APIs and full-stack solutions. **1+ year** hands-on in .NET (ASP.NET Core, Blazor, RESTful APIs, enterprise web apps), **1 year** in MERN stack (MongoDB, Express.js, React.js, Node.js), and hands-on experience building modern frontends with **React** and **Next.js**.
+Full-Stack Developer with **2+ years of experience** building scalable applications across the **.NET and MERN ecosystems**. Experienced in backend engineering, frontend architecture, API development, database design, code quality governance, deployment automation, and production support.
 
-Built and maintained APIs for business-critical modules including **Movie Booking**, **Facility Management (Guest House & Meal)**, **Travel Management**, and **Shopping Bus Management** — covering authentication, business logic, and database integration. Regularly improve code quality via **SonarQube/SonarCloud**. Experienced in functional testing, regression testing, and post-deployment validation for web, mobile, and VS Code extension projects. Deploy to QA and Production environments and verify successful releases. Collaborate with cross-functional teams to deliver reliable, scalable features end-to-end.
+Focused on creating reliable software with **ASP.NET Core, Blazor, React, Next.js, Node.js, SQL Server, MongoDB, SonarQube, IIS, Linux, and PowerShell**.
+
 
 - 🔭 Currently working at **Q3 Technologies** as a Jr. Software Engineer
-- 🎓 B.Tech in Electronics & Electrical Engineering — **KIIT University**
+- 🎓 B.Tech — **KIIT University**
 - 🌱 Currently deepening expertise in **.NET ecosystem & Azure**
 - 💬 Ask me about **ASP.NET Core, Blazor, REST APIs, React, Node.js**
 - ⚡ Fun fact: **Don't sit there, EVOLVE**
 - 🎯 Portfolio website: **[Portfolio](https://rohit-rohit-0310.vercel.app/)**
-<br/>
 
-## 📊 Experience Summary
+---
+## ⚡ Core Expertise
 
-| Stack | Duration | Key Technologies |
-|---|---|---|
-| **.NET Full Stack** | 1+ year | ASP.NET Core, Blazor, C#, Entity Framework, SQL Server |
-| **MERN Stack** | 1 year | MongoDB, Express.js, React.js, Node.js, Redux, Next.js |
-| **Total Experience** | 2+ years | Design · Development · Testing · Deployment |
+🔷 **Backend Engineering**  
+> ASP.NET Core • C# • Entity Framework • SQL Server
 
-<br/>
-## 🚀 What I Build
+⚛️ **Frontend Development**  
+> React • Next.js • Blazor • TypeScript • JavaScript
 
-**🔷 RESTful API Development**
-> ASP.NET Core APIs for enterprise modules — Movie Booking, Facility Management (Guest House & Meal), Travel Management, and Shopping Bus Management — handling authentication, business logic, and database integration.
+🚀 **MERN Ecosystem**  
+> MongoDB • Express.js • Node.js • React
 
-**🔷 Full-Stack Frontend**
-> React and Next.js applications with SSR/SSG, Blazor apps with responsive UI, and MERN stack projects. Developed and maintained employee management and meal plan UI components.
+🔐 **API & Security**  
+> REST APIs • JWT Authentication • Authorization • System Integration
 
-**🔷 Code Quality & SonarQube**
-> SonarQube/SonarCloud compliance across large codebases — resolving issues, managing project exclusions, and reducing technical debt to improve long-term maintainability.
+📊 **Analytics & Real-Time**  
+> Socket.IO • ChartJS • ECharts • Data Visualization
 
-**🔷 Testing & Deployment**
-> Functional, regression, and post-deployment validation for web, mobile, and VS Code extension projects. Deploys to QA and Production with smoke testing and release verification.
+🛡️ **Code Quality**  
+> SonarQube • SonarCloud • Technical Debt Reduction • Automation
 
-<br/>
+☁️ **DevOps & Deployment**  
+> IIS • Linux • CI/CD • QA • Production
 
-## 🛠️ Tech Stack
+⚙️ **Automation & Productivity**  
+> PowerShell • Git • Workflow Automation • Release Validation
 
-**⚙️ .NET**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+----
 
-**⚛️ React & Next.js**
+## 🛠 Tech Arsenal
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-**🌿 MERN**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**🎨 Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**🔧 Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br/>
-
-## 🤝 Connect with Me <img  width="30px" height="30px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" >
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rohitkumar-03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://rohit-rohit-0310.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/Rohit_O3" target="_blank">
-    <img src="https://img.shields.io/badge/@Rohit__O3-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
-  </a>
-  <a href="https://github.com/Rohit-0310" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://rohit-rohit-0310.vercel.app/" target="_blank">
-    <img src="ICON/LogoIcon-modified_1.png" height="28" alt="Portfolio Logo" />
-  </a>
+### 🔷 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
 </p>
 
+### ⚛️ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
+</p>
+
+### 🎨 UI Engineering
+
+<p>
+  <img height="48" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
+  <img height="48" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
+  <img height="48" src="https://cdn.simpleicons.org/sass/CC6699" />
+  <img height="48" src="https://cdn.simpleicons.org/mui/007FFF" />
+</p>
+
+### 🗄️ Database & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img height="48" src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 📊 State Management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img height="48" src="https://cdn.simpleicons.org/formik/2563EB" />
+</p>
+
+### 📈 Analytics & Realtime
+
+<p>
+  <img height="48" src="https://cdn.simpleicons.org/chartdotjs/FF6384" />
+  <img height="48" src="https://cdn.simpleicons.org/socketdotio/FFFFFF" />
+</p>
+
+### ⚙️ DevOps & Quality
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,postman,powershell" />
+  <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=sonarqube" />
+  <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=sonarcloud" />
+</p>
+
+---
+
+# 🚀 Impact
+
+- ✔ 2+ Years Building Enterprise-Grade Applications
+- ✔ Managed 100+ SonarQube Projects Across Multi-Server Environments
+- ✔ Delivered Healthcare, Employee Management & Business Platforms
+- ✔ Built SSR Applications Optimized for SEO & Performance
+- ✔ Automated Quality Workflows Using PowerShell
+- ✔ Deployed Applications Across IIS, Linux, QA & Production
+- ✔ Contributed Across Development, Testing, Deployment & Maintenance
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rohitkumar-03/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rohit9909mr@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://rohit-rohit-0310.vercel.app/">
+<img src="ICON/LogoIcon-modified_1.png" height="48"/>
+</a>
+</p>
+
+
 <br/>
 
+<!--
 ## ❤ Views and Followers
 
 <a href="https://github.com/Rohit-0310/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Rohit-0310&color=blueviolet">
   <img src="https://badges.pufler.dev/Commits/yearly/Rohit-0310" /> 
   <a href="https://github.com/Rohit-0310?tab=followers"><img src="https://img.shields.io/github/followers/Rohit-0310?label=Followers&style=social" alt="GitHub Badge"></a>
-</a>
+</a> -->
   
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-0310&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-0310" /> </p> -->
 
 <!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310" /> </p> -->
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Rohit-0310&data=followers,repositories,stars,commits"></p>
+<!-- <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Rohit-0310&data=followers,repositories,stars,commits"></p> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310" alt="Rohit-0310" /></a> </p> -->
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-0310&theme=darkhub" alt="Rohit-0310" /></a> </p> -->
 
-<br/>
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohit-0310&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Rohit-0310?label=Followers&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit-0310&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://streak-stats.demolab.com?user=Rohit-0310&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- <p align="center">
+   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohit-0310&layout=compact&theme=tokyonight&hide_border=true" />
+</p> -->
+
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-0310&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
+
+<!-- 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rohit-0310/Rohit-0310/output/github-contribution-grid-snake-dark.svg" />
+</p> -->
+
+<!-- 
 ## 📊 My Github Stats
 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohit-0310&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-0310&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-</p>
+</p> 
 
   <br/>
     <a href="https://github.com/Rohit-0310/github-readme-stats"><img style="width:57%" alt="Rohit Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit-0310&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -144,18 +196,19 @@ Built and maintained APIs for business-critical modules including **Movie Bookin
 
 <br/>
 <br/>
+-->
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&" alt="Rohit-0310" /></p>  -->
 
 
-<div align="center">
+<!-- <div align="center">
 <img style="width:80%" alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-0310&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </div>
+  </div> -->
   
   
   
-<a href="https://github.com/Rohit-0310/github-readme-activity-graph"><img alt="Rohit Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit-0310&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Rohit-0310/github-readme-activity-graph"><img alt="Rohit Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit-0310&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<br/> -->
 
 
   
