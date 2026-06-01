@@ -173,12 +173,11 @@ Focused on creating reliable software with **ASP.NET Core, Blazor, React, Next.j
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-0310&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
-<!-- 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rohit-0310/Rohit-0310/output/github-contribution-grid-snake-dark.svg" />
-</p> -->
+</p>
 
 <!-- 
 ## 📊 My Github Stats
