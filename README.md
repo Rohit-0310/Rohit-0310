@@ -157,9 +157,9 @@ Focused on creating reliable software with **ASP.NET Core, Blazor, React, Next.j
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit-0310&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohit-0310&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170" src="https://streak-stats.demolab.com?user=Rohit-0310&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Rohit-0310&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- <p align="center">
