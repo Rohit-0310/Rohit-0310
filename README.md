@@ -1,10 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 
-<h3 align="center">.NET Full-Stack Developer • MERN Engineer • SonarQube Administrator</h3>
+<h3 align="center">
+.NET Full-Stack Developer • Enterprise Systems • SonarQube Administrator
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=2%2B+Years+of+Full-Stack+Development;ASP.NET+Core+%7C+Blazor+%7C+React+%7C+Next.js;Enterprise+Applications+%7C+Healthcare+Platforms;SonarQube+Administration+%7C+DevOps+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Building+Enterprise+Applications+for+2%2B+Years;ASP.NET+Core+%7C+Blazor+%7C+React+%7C+Next.js;OAuth2+%7C+SSO+%7C+SQL+Server+%7C+REST+APIs;Healthcare+Platforms+%7C+Payroll+Management;SharePoint+Migration+%7C+Workflow+Automation;SonarQube+Administration+%7C+PowerShell+Automation" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-Expert-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blazor-Developer-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-Developer-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/OAuth2-SSO-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/SonarQube-Administrator-orange?style=flat-square" />
+</p>
+
 
 Full-Stack Developer with **2+ years of experience** building scalable enterprise applications using **ASP.NET Core, Blazor, React, Next.js, SQL Server, REST APIs, OAuth2, and SonarQube**.
 
@@ -134,7 +146,23 @@ Focused on delivering reliable software through **modern .NET development, secur
   <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=sonarcloud" />
 </p>
 
----
+
+# 🏆 Certifications & Learning
+
+📘 **Microsoft Learn** •
+[Introduction to Git](https://learn.microsoft.com/api/achievements/share/en-us/ROHITKUMAR-5606/NQ7GVXPF?sharingId=A98E82CAC7BB91AC)
+•
+[Introduction to GitHub](https://learn.microsoft.com/api/achievements/share/en-us/ROHITKUMAR-5606/NQ7GMS8F?sharingId=A98E82CAC7BB91AC)
+
+🏅 **HackerRank** •
+[SQL (Basic)](https://www.hackerrank.com/certificates/c02444cfad42)
+•
+[SQL (Intermediate)](https://www.hackerrank.com/certificates/20b8f476ddeb)
+•
+[Problem Solving](https://www.hackerrank.com/certificates/2bbc9fba052f)
+
+🎯 **Currently Learning** • AZ-900 • GitHub Foundations • AI-900
+
 
 # 🚀 Impact
 
@@ -146,7 +174,6 @@ Focused on delivering reliable software through **modern .NET development, secur
 - ✔ Deployed Applications Across IIS, Linux, QA & Production
 - ✔ Contributed Across Development, Testing, Deployment & Maintenance
 
----
 
 ## 🤝 Connect With Me
 
