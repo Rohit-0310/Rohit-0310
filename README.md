@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=2%2B+Years+of+Full-Stack+Development;ASP.NET+Core+%7C+Blazor+%7C+React+%7C+Next.js;Enterprise+Applications+%7C+Healthcare+Platforms;SonarQube+Administration+%7C+DevOps+Automation" />
 </p>
 
+Full-Stack Developer with **2+ years of experience** building scalable enterprise applications using **ASP.NET Core, Blazor, React, Next.js, SQL Server, REST APIs, OAuth2, and SonarQube**.
 
-Full-Stack Developer with **2+ years of experience** building scalable applications across the **.NET and MERN ecosystems**. Experienced in backend engineering, frontend architecture, API development, database design, code quality governance, deployment automation, and production support.
+Experienced in **backend engineering, frontend architecture, enterprise authentication (SSO), API development, code quality governance, deployment automation, and production support** across Healthcare, Payroll Management, and Business Automation platforms.
 
-Focused on creating reliable software with **ASP.NET Core, Blazor, React, Next.js, Node.js, SQL Server, MongoDB, SonarQube, IIS, Linux, and PowerShell**.
-
+Focused on delivering reliable software through **modern .NET development, secure authentication systems, automation, and scalable architecture.**
 
 - 🔭 Currently working at **Q3 Technologies** as a Jr. Software Engineer
 - 🎓 B.Tech — **KIIT University**
@@ -18,6 +18,49 @@ Focused on creating reliable software with **ASP.NET Core, Blazor, React, Next.j
 - 💬 Ask me about **ASP.NET Core, Blazor, REST APIs, React, Node.js**
 - ⚡ Fun fact: **Don't sit there, EVOLVE**
 - 🎯 Portfolio website: **[Portfolio](https://rohit-rohit-0310.vercel.app/)**
+
+---
+# 💼 Enterprise Experience
+
+### 🏭 HMCL — Payroll & Workforce Management
+
+> **Payroll Management • IT Declaration • Attendance Automation • Leave Management • Stimulsoft Migration**
+
+`ASP.NET Core` `SQL Server` `Stimulsoft` `REST APIs`
+
+##
+
+### 🔄 HMEL — SharePoint Migration Platform
+
+> **SharePoint Migration • Enterprise Email Service • Approval Workflows • Movie Booking • Guest House • Travel & Shopping Bus**
+
+`ASP.NET Core` `OData` `SQL Server` `Email Automation`
+
+##
+
+### 🍽 HungerTym — Employee Food Ordering Platform
+
+> **OAuth2 SSO • Mobile Ordering • QR Validation • Meal Planner • Admin Controls**
+
+`ASP.NET Core` `Blazor` `React` `OAuth2`
+
+##
+
+### 🔐 Identity & Security Platform
+
+> **Authorization Code Flow • Enterprise SSO • JWT Security • Secure Token Exchange**
+
+`OAuth2` `JWT` `IdentityServer`
+
+##
+
+### 🛡 SonarQube Governance
+
+> **100+ Projects Managed • Automation • Quality Gates • Custom Rules • Pipeline Support**
+
+`SonarQube` `PowerShell` `DevOps`
+
+
 
 ---
 ## ⚡ Core Expertise
@@ -210,7 +253,9 @@ Focused on creating reliable software with **ASP.NET Core, Blazor, React, Next.j
 <br/> -->
 
 
-  
+<!--
+ASP.NET Core • C# • .NET • Blazor • React • Next.js • SQL Server • Entity Framework Core • REST APIs • SonarQube • SonarCloud • PowerShell • Azure • CI/CD • IIS • Linux • Full Stack Developer • Software Engineer • Enterprise Applications • Healthcare Applications
+  -->
   
   
 <!--   <p align="center">
