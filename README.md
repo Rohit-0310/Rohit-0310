@@ -28,15 +28,11 @@ Focused on delivering reliable software through **modern .NET development, secur
 
 `ASP.NET Core` `SQL Server` `Stimulsoft` `REST APIs`
 
-##
-
 ### 🔄 HMEL — SharePoint Migration Platform
 
 > **SharePoint Migration • Enterprise Email Service • Approval Workflows • Movie Booking • Guest House • Travel & Shopping Bus**
 
 `ASP.NET Core` `OData` `SQL Server` `Email Automation`
-
-##
 
 ### 🍽 HungerTym — Employee Food Ordering Platform
 
@@ -44,15 +40,11 @@ Focused on delivering reliable software through **modern .NET development, secur
 
 `ASP.NET Core` `Blazor` `React` `OAuth2`
 
-##
-
 ### 🔐 Identity & Security Platform
 
 > **Authorization Code Flow • Enterprise SSO • JWT Security • Secure Token Exchange**
 
 `OAuth2` `JWT` `IdentityServer`
-
-##
 
 ### 🛡 SonarQube Governance
 
